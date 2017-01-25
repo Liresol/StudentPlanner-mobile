@@ -430,3 +430,6 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 # End of https://www.gitignore.io/api/visualstudio,vim,macos,windows,java,android
+
+#From the app folder
+/build
